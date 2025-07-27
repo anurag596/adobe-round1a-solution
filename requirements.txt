@@ -1,0 +1,6 @@
+PyMuPDF==1.23.7
+pdfminer.six
+pandas
+scikit-learn
+pytesseract
+Pillow
