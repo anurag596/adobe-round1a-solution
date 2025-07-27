@@ -1,0 +1,23 @@
+# Python cache & virtualenv
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+.env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Input/Output folders (keep structure but no files)
+input/*
+output/*
+
+# But keep empty folder placeholders
+!input/.gitkeep
+!output/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db
